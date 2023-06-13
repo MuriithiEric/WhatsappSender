@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "google-auth-library": "^8.8.0",
+    "googleapis": "^118.0.0",
+    "puppeteer": "^20.6.0",
+    "qrcode-terminal": "^0.12.0",
+    "twilio": "^4.11.2",
+    "whatsapp-web.js": "^1.21.0"
+  }
+}
